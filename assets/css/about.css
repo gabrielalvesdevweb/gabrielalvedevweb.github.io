@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+#about {
+    background-color: #8b0010e1;
+    height: 100vh;
+    display: flex;
+}
+
